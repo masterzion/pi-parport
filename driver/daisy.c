@@ -24,7 +24,7 @@
 #include <linux/delay.h>
 #include <linux/slab.h>
 #include <linux/sched.h>
-#include <linux/sched/signal.h>
+#include <linux/signal.h>
 
 #include <asm/current.h>
 #include <asm/uaccess.h>

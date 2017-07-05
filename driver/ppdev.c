@@ -59,7 +59,7 @@
 #include <linux/module.h>
 #include <linux/init.h>
 #include <linux/sched.h>
-#include <linux/sched/signal.h>
+#include <linux/signal.h>
 #include <linux/device.h>
 #include <linux/ioctl.h>
 #include <linux/parport.h>

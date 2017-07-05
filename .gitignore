@@ -1,0 +1,10 @@
+*.cmd
+*.o
+*.d
+*.ko
+.tmp_versions
+Module.symvers
+*.mod.c
+driver/modules.order
+*.dtbo
+
